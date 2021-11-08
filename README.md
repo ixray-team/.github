@@ -7,3 +7,7 @@
 <!-- markdownlint-enable MD033 -->
 
 Default community health files of *IX-Ray* project
+
+## License
+
+Contents of this repository are distributed under the terms of **CC-BY-SA-4.0** license. See [this](LICENSE) file for details
