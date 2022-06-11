@@ -1,6 +1,5 @@
 name: Bug report
 description: Create a report to help us improve the project
-title: 'Bug report: '
 labels: bug
 body:
   - type: textarea
@@ -20,7 +19,7 @@ body:
         - GPU
         - RAM
         - OS
-        - Version
+        - Version or build
     validations:
       required: true
   - type: textarea
@@ -30,8 +29,8 @@ body:
       description: Steps to reproduce the behavior
       placeholder: |
         1. Go to '...'
-        2. Click on '....'
-        3. Scroll down to '....'
+        2. Click on '...'
+        3. Scroll down to '...'
         4. See error
     validations:
       required: true
@@ -51,10 +50,11 @@ body:
       label: Additional context
       description: Add any other context about the problem here if it is necessary
   - type: checkboxes
-    id: terms
+    id: agreements
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/ixray-team/.github/blob/default/CODE_OF_CONDUCT.md)
+      label: Agreements
+      description: By submitting this issue, you agree to follow our __Contributing Guidelines__ and __Code of Conduct__
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: I agree to follow this project's [__Contributing Guidelines__](https://github.com/ixray-team/.github/blob/default/CONTRIBUTING.md)
+        - label: I agree to follow this project's [__Code of Conduct__](https://github.com/ixray-team/.github/blob/default/CODE_OF_CONDUCT.md)
           required: true
