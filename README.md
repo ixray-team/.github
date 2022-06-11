@@ -6,8 +6,8 @@
 </p>
 <!-- markdownlint-enable MD033 -->
 
-Default community health files of *IX-Ray* project
+Default community health files of _IX-Ray_ project
 
 ## License
 
-Contents of this repository are distributed under the terms of **CC-BY-SA-4.0** license. See [this](LICENSE) file for details
+Contents of this repository are distributed under the terms of __MIT__ license. See [this](LICENSE) file for details
