@@ -6,7 +6,7 @@
 </p>
 <!-- markdownlint-enable MD033 -->
 
-Default community health files of _IX-Ray_ project
+Default community health files of __IX-Ray__ project
 
 ## License
 
