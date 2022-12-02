@@ -43,7 +43,7 @@
   <tr>
     <td align="center"><a href="https://github.com/ixray-team/ixray-forms">IX-Ray Forms</a></td>
     <td align="center">—</td>
-    <td align="center"><a href="https://github.com/ixray-team/ixray-forms/actions/workflows/building.yml"><img src="https://github.com/ixray-team/ixray-forms/actions/workflows/building.yml/badge.svg" alt="Build layouts" /></a></td>
+    <td align="center"><a href="https://github.com/ixray-team/ixray-forms/actions/workflows/build-layouts.yml"><img src="https://github.com/ixray-team/ixray-forms/actions/workflows/build-layouts.yml/badge.svg" alt="Build layouts" /></a></td>
   </tr>
 </table>
 
