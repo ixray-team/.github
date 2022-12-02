@@ -62,3 +62,13 @@
     <td align="center"><a href="https://github.com/ixray-team/ixray-docs">Documentation</a></td>
   </tr>
 </table>
+
+<h3 align="center">
+  Our partners
+</h3>
+
+<div align="center">
+  <p>
+    <a href="https://vk.com/stalker_belarus"><img src="https://github.com/ixray-team/.github/blob/default/profile/FON_DED.png" alt="S.T.A.L.K.E.R. Беларусь" width="150" height="190" /></a>
+  </p>
+</div>
