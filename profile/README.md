@@ -1,9 +1,64 @@
-<!-- markdownlint-disable MD041 -->
-## IX-Ray Team
-<!-- markdownlint-enable MD041 -->
 
-Welcome to the **IX-Ray Team**! Our main goal is the modernization of *X-Ray* engine
+<h2 align="center">
+  Welcome to <b>IX-Ray Team</b>!
+</h2>
 
-See the [stating point](https://github.com/ixray-team/ixray-docs) page for details about us and our projects
+<h3 align="center">
+  Main repositories
+</h3>
 
-See the **pinned list** below to explore our main supported projects
+<table align="center">
+  <tr>
+    <td align="center">Name</td>
+    <td align="center">Version</td>
+    <td align="center">Status</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ixray-team/ixray-1.6-stcop">IX-Ray 1.6</a></td>
+    <td align="center"><a href="https://github.com/ixray-team/ixray-1.6-stcop/releases/tag/r0.4"><img src="https://img.shields.io/github/v/release/ixray-team/ixray-1.6-stcop?include_prereleases&label=Release" alt="Latest release" /></a></td>
+    <td align="center"><a href="https://github.com/ixray-team/ixray-1.6-stcop/actions/workflows/build-engine.yml"><img src="https://github.com/ixray-team/ixray-1.6-stcop/actions/workflows/build-engine.yml/badge.svg" alt="Build engine" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ixray-team/ixray-1.5-stcs">IX-Ray 1.5</a></td>
+    <td align="center"><a href="https://github.com/ixray-team/ixray-1.5-stcs/releases/tag/r0.4"><img src="https://img.shields.io/github/v/release/ixray-team/ixray-1.5-stcs?include_prereleases&label=Release" alt="Latest release" /></a></td>
+    <td align="center"><a href="https://github.com/ixray-team/ixray-1.5-stcs/actions/workflows/build-engine.yml"><img src="https://github.com/ixray-team/ixray-1.5-stcs/actions/workflows/build-engine.yml/badge.svg" alt="Build engine" /></a></td>
+  </tr>
+  <tr >
+    <td align="center"><a href="https://github.com/ixray-team/ixray-1.0-stsoc">IX-Ray 1.0</a></td>
+    <td align="center"><a href="https://github.com/ixray-team/ixray-1.0-stsoc/releases/tag/r0.2"><img src="https://img.shields.io/github/v/release/ixray-team/ixray-1.0-stsoc?include_prereleases&label=Release" alt="Latest release" /></a></td>
+    <td align="center">———</td>
+  </tr>
+</table>
+
+<h3 align="center">
+  Additional repositories
+</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">Name</td>
+    <td align="center">Version</td>
+    <td align="center">Status</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ixray-team/ixray-forms">IX-Ray Forms</a></td>
+    <td align="center">—</td>
+    <td align="center"><a href="https://github.com/ixray-team/ixray-forms/actions/workflows/building.yml"><img src="https://github.com/ixray-team/ixray-forms/actions/workflows/building.yml/badge.svg" alt="Build layouts" /></a></td>
+  </tr>
+</table>
+
+<h3 align="center">
+  Auxiliary repositories
+</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">Name</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ixray-team/.github">Special configs</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ixray-team/ixray-docs">Documentation</a></td>
+  </tr>
+</table>
