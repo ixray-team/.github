@@ -69,6 +69,6 @@
 
 <div align="center">
   <p>
-    <a href="https://vk.com/stalker_belarus"><img src="https://github.com/ixray-team/.github/blob/default/profile/FON_DED.png" alt="S.T.A.L.K.E.R. Беларусь" width="150" height="190" /></a>
+    <a href="https://vk.com/stalker_belarus"><img src="https://github.com/ixray-team/.github/blob/default/profile/logo_new.png" alt="S.T.A.L.K.E.R. Беларусь" width="155" height="150" /></a>
   </p>
 </div>
