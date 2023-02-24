@@ -69,6 +69,7 @@
 
 <div align="center">
   <p>
+    <a href="https://github.com/Lithium-XR"><img src="https://github.com/ixray-team/.github/blob/default/profile/Frame9.png" alt="Lithium" width="150" height="150" /></a>
     <a href="https://vk.com/stalker_belarus"><img src="https://github.com/ixray-team/.github/blob/default/profile/logo_new.png" alt="S.T.A.L.K.E.R. Беларусь" width="155" height="150" /></a>
   </p>
 </div>
