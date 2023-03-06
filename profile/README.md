@@ -26,7 +26,7 @@
   <tr >
     <td align="center"><a href="https://github.com/ixray-team/ixray-1.0-stsoc">IX-Ray 1.0</a></td>
     <td align="center"><a href="https://github.com/ixray-team/ixray-1.0-stsoc/releases/tag/r0.2"><img src="https://img.shields.io/github/v/release/ixray-team/ixray-1.0-stsoc?include_prereleases&label=Release" alt="Latest release" /></a></td>
-    <td align="center">———</td>
+    <td align="center"><a href="https://github.com/ixray-team/ixray-1.0-stsoc/actions/workflows/build-engine.yml"><img src="https://github.com/ixray-team/ixray-1.0-stsoc/actions/workflows/build-engine.yml/badge.svg" alt="Build engine" /></a></td>
   </tr>
 </table>
 
