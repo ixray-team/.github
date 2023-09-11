@@ -72,5 +72,6 @@
     <a href="https://github.com/Lithium-XR"><img src="https://github.com/ixray-team/.github/blob/default/profile/Frame9.png" alt="Lithium" width="150" height="150" /></a>
     <a href="https://vk.com/stalker_belarus"><img src="https://github.com/ixray-team/.github/blob/default/profile/logo_new.png" alt="S.T.A.L.K.E.R. Беларусь" width="155" height="150" /></a>
     <a href="https://github.com/cryray-team"><img src="https://github.com/ixray-team/.github/blob/default/profile/cr.png" alt="CryRay Engine x64" width="150" height="150" /></a>
+    <a href="https://vk.com/vivient_team_mods"><img src="https://github.com/ixray-team/.github/blob/default/profile/logo_black_01.jpg" alt="Vivient Team" width="150" height="150" /></a>
   </p>
 </div>
