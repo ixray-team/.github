@@ -1,7 +1,7 @@
 # IX-Ray
 
 <p align="center">
-  <img src="https://github.com/ixray-team/ixray/raw/default/logo.png" width="150" height="150" />
+  <img src="https://github.com/ixray-team/ixray/raw/default/logo.png" width="150" height="150" alt="IX-Ray" />
 </p>
 
 Default community health files of __IX-Ray__ project
