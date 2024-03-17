@@ -22,5 +22,5 @@ If this pull request is associated to any issue, then put its number here please
 
 Agreements:
 
-- [ ] I agree to follow this project's [__Contributing Guidelines__](https://github.com/ixray-team/.github/blob/default/CONTRIBUTING.md)
-- [ ] I agree to follow this project's [__Code of Conduct__](https://github.com/ixray-team/.github/blob/default/CODE_OF_CONDUCT.md)
+- [x] I agree to follow this project's [__Contributing Guidelines__](https://github.com/ixray-team/.github/blob/default/CONTRIBUTING.md)
+- [x] I agree to follow this project's [__Code of Conduct__](https://github.com/ixray-team/.github/blob/default/CODE_OF_CONDUCT.md)
