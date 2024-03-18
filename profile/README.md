@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/ixray-team/ixray-1.6-stcop"><img src="https://badgen.net/badge/Project/IX-Ray%201.6/blue?icon=github" alt="IX-Ray 1.6" /></a></td>
-    <td><a href="https://github.com/ixray-team/ixray-1.6-stcop/releases/tag/r0.7"><img src="https://img.shields.io/github/v/release/ixray-team/ixray-1.6-stcop?include_prereleases&label=Release" alt="Latest release" /></a></td>
+    <td><a href="https://github.com/ixray-team/ixray-1.6-stcop/releases/tag/r0.8"><img src="https://img.shields.io/github/v/release/ixray-team/ixray-1.6-stcop?include_prereleases&label=Release" alt="Latest release" /></a></td>
     <td><a href="https://github.com/ixray-team/ixray-1.6-stcop/actions/workflows/build-engine.yml"><img src="https://github.com/ixray-team/ixray-1.6-stcop/actions/workflows/build-engine.yml/badge.svg" alt="Build engine" /></a></td>
   </tr>
   <tr>
