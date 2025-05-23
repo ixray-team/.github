@@ -27,26 +27,6 @@
     <td><a href="https://github.com/ixray-team/ixray-1.0-stsoc/releases/latest"><img src="https://img.shields.io/github/v/release/ixray-team/ixray-1.0-stsoc?include_prereleases&label=Release" alt="Latest release" /></a></td>
     <td><a href="https://github.com/ixray-team/ixray-1.0-stsoc/actions/workflows/build-engine.yml"><img src="https://github.com/ixray-team/ixray-1.0-stsoc/actions/workflows/build-engine.yml/badge.svg" alt="Build engine" /></a></td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/ixray-team/ixray-forms"><img src="https://badgen.net/badge/Project/IX-Ray%20Forms/blue?icon=github" alt="IX-Ray Forms" /></a></td>
-    <td>—</td>
-    <td><a href="https://github.com/ixray-team/ixray-forms/actions/workflows/build-layouts.yml"><img src="https://github.com/ixray-team/ixray-forms/actions/workflows/build-layouts.yml/badge.svg" alt="Build layouts" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ixray-team/ixray-shell"><img src="https://badgen.net/badge/Project/IX-Ray%20Shell/blue?icon=github" alt="IX-Ray Shell" /></a></td>
-    <td>—</td>
-    <td>—</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ixray-team/ixray-builder"><img src="https://badgen.net/badge/Project/IX-Ray%20Builder/blue?icon=github" alt="IX-Ray Builder" /></a></td>
-    <td>—</td>
-    <td>—</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ixray-team/ixray-migrator"><img src="https://badgen.net/badge/Project/IX-Ray%20Migrator/blue?icon=github" alt="IX-Ray Migrator" /></a></td>
-    <td>—</td>
-    <td>—</td>
-  </tr>
 </table>
 
 <h2 align="center">
