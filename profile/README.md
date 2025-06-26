@@ -35,11 +35,10 @@
 
 <div align="center">
   <p>
-    <a href="https://github.com/Lithium-XR"><img align="center" src="https://github.com/ixray-team/.github/blob/default/profile/Frame9.png" alt="Lithium" width="150" height="150" /></a>
     <a href="https://vk.com/stalker_belarus"><img align="center" src="https://github.com/ixray-team/.github/blob/default/profile/logo_new.png" alt="S.T.A.L.K.E.R. Беларусь" width="155" height="150" /></a>
     <a href="https://vk.com/vivient_team_mods"><img align="center" src="https://github.com/ixray-team/.github/blob/default/profile/logo_black_01.jpg" alt="Vivient Team" width="150" height="150" /></a>
     <a href="https://vk.com/stalknetonline"><img align="center" src="https://github.com/ixray-team/.github/blob/default/profile/net_online_logo.png" alt="NET Online" width="150"/></a>
-    <a href="https://vk.com/aloneinwindstorm"><img align="center" src="https://github.com/ixray-team/.github/blob/default/profile/aiwfb_logo.png" alt="Vivient Team" width="150" height="110" /></a>
-    <a href="https://discord.gg/anomalycustom"><img align="center" src="https://github.com/ixray-team/.github/blob/default/profile/gamelogo.png" alt="DEX Team" width="150" height="150" /></a>
+    <a href="https://vk.com/aloneinwindstorm"><img align="center" src="https://github.com/ixray-team/.github/blob/default/profile/aiwfb_logo.png" alt="
+Alone In Windstorm: Fallen Bear" width="150" height="110" /></a>
   </p>
 </div>
